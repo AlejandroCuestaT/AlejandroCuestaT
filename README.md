@@ -5,17 +5,19 @@
 ---
 
 ### 🔍 ¿Quién soy y qué busco?
-Soy un **[Tu Rol, ej: Desarrollador Frontend / Estudiante de Software]** enfocado en construir experiencias digitales que marquen la diferencia. Mi objetivo actual es **[Tu meta, ej: dominar el backend con Node.js / conseguir mi primera oportunidad como Junior]** y colaborar en proyectos que desafíen mi lógica.
+Soy un desarrollador Full Stack, con los grados de DAW y DAM. Mi objetivo actual es seguir creciendo como programador aprendiendo nuevas herramientas y framworks
 
 ---
 
 ### 🛠️ Mi Caja de Herramientas (Stack)
 
+### 🛠️ Mi Stack Tecnológico
+
 | Área | Tecnologías |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **Otras** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white) |
+| **Otras** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 
 ---
 
