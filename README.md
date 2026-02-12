@@ -1,6 +1,6 @@
-# ⚡ Hello World, soy [Tu Nombre]
+# ⚡ Hello World, soy Alejandro Cuesta
 
-> **[Una frase que te defina]** > *Ejemplo: "Transformando café en código eficiente y soluciones creativas."*
+> *"Todo esfuerzo tiene su recompensa"*
 
 ---
 
