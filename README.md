@@ -20,8 +20,12 @@ Soy un desarrollador Full Stack, con los grados de DAW y DAM. Mi objetivo actual
 ---
 
 ### 🚀 Proyectos Destacados
-* **[Nombre del Proyecto]**: [Descripción corta de una línea].
-* **[Nombre del Proyecto]**: [Lo que aprendiste o resolviste aquí].
+
+* **⚡ [TheCut](https://github.com/AlejandroCuestaT/TheCut)** *Mi Proyecto de Fin de Grado (TFG)*. Una plataforma integral para la gestión de una **barbería**, desarrollada en colaboración. Enfocado en la optimización de reservas y experiencia de usuario.
+
+* **💻 [ProyectoCliente](https://github.com/AlejandroCuestaT/ProyectoCliente)** Aplicación robusta de fin de ciclo para el entorno cliente. Construida con **Vue.js** para una interfaz reactiva y **Node.js** en la lógica del servidor.
+
+* **🛡️ [PruebaTecnicaBackend](https://github.com/AlejandroCuestaT/PruebaTecnicaBackend)** Desafío técnico realizado para **Iberpixel**. Implementación de una API REST profesional utilizando **SpringBoot**, demostrando buenas prácticas y arquitectura escalable.
 
 ---
 
