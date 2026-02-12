@@ -29,8 +29,10 @@ Soy un desarrollador Full Stack, con los grados de DAW y DAM. Mi objetivo actual
 
 ---
 
-### 💬 Hablemos
-Si tienes un proyecto en mente o simplemente quieres charlar sobre tecnología, ¡encantado!
+---
 
-[ ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](TU_LINK_A_LINKEDIN)
-[ ![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:tu-correo@gmail.com)
+### 🤝 Conectemos
+Si buscas un perfil **Fullstack** con ganas de aportar y seguir aprendiendo, o simplemente quieres intercambiar ideas, estaré encantado de conectar contigo.
+
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/alejandro-cuesta-trapote/)
+[ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:alejandrocuestat@gmail.com)
