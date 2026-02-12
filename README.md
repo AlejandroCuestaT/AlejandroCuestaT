@@ -29,8 +29,6 @@ Soy un desarrollador Full Stack, con los grados de DAW y DAM. Mi objetivo actual
 
 ---
 
----
-
 ### 🤝 Conectemos
 Si buscas un perfil **Fullstack** con ganas de aportar y seguir aprendiendo, o simplemente quieres intercambiar ideas, estaré encantado de conectar contigo.
 
